@@ -1,0 +1,16 @@
+A scalable and modular blockchain application built on Base, designed to enable secure, low-cost, and high-performance decentralized interactions.
+
+This repository includes smart contracts, backend services, and frontend integrations for seamless Web3 user experience. The architecture follows best practices for security, gas optimization, and upgradeability.
+
+Key Features:
+
+- Smart contracts written in Solidity with full test coverage
+- Integration with Base L2 for fast and low-cost transactions
+- Modular and extensible architecture
+- Secure wallet interactions (EIP-1193 compliant)
+- CI/CD pipeline for automated testing and deployment
+
+Tech Stack:
+Solidity | Hardhat | TypeScript | Node.js | Ethers.js
+
+This project aims to provide a production-ready foundation for building decentralized applications on Base.
